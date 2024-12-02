@@ -38,11 +38,12 @@
 				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/MyBlueprints/Tent_002.uasset",
 				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/MyBlueprints/Wooden_Sword1.uasset",
 				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/MyBlueprints/VRTarget.uasset",
-				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/MyBlueprints/VRTarget1.uasset",
-				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/MyBlueprints/VRTarget2.uasset",
 				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/MyBlueprints/AmmoPistol.uasset",
 				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
-				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/MyBlueprints/IA_Reload_Right.uasset"
+				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/MyBlueprints/IA_Reload_Right.uasset",
+				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/MyMaps/HW2.umap",
+				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/MyBlueprints/VRTarget1.uasset",
+				"E:/Epic games/UE_5.3/UnrealProjects/VRStarterProject/MyStarterProject/Content/MyBlueprints/VRTarget2.uasset"
 			]
 		}
 	]
