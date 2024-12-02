@@ -7,7 +7,13 @@ Main scene for HW#2 is `HW2.umap`.
 
 ## Contibutions:
  - Erik
+  - Blueprint modifications for reloading
+  - Blueprint modifications for targets & level events
  - Chris
+  - Level creation of main scene
+  - Level creation of win scene
+  - Grabbable objects and layout
+  - Basis for blueprints
  - Ben
 
 ## AI & Web Usage:
