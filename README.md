@@ -14,8 +14,10 @@ Main scene for HW#2 is `HW2.umap`.
    - Level creation of main scene
    - Level creation of win scene
    - Grabbable objects and layout
-   - Basis for blueprints
+ 
  - Ben
+   - Basis for blueprints
+   - Worked on the blueprint initializations 
 
 ## AI & Web Usage:
 No AI was consulted for any portion of this project. Everything was able to be completed through Unreal Engine knowlenge and documentation. Web usage included some quick debugging consulting.
