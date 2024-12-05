@@ -21,3 +21,6 @@ Main scene for HW#2 is `HW2.umap`.
 
 ## AI & Web Usage:
 No AI was consulted for any portion of this project. Everything was able to be completed through Unreal Engine knowlenge and documentation. Web usage included some quick debugging consulting.
+
+## Team Meetings:
+The team met during 12/1 and working on the project. Everyone was able to work on the project during this meeting. No other team meetings were held
